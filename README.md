@@ -1,8 +1,8 @@
 # CS236_FinalProj
 
-This is a project for BYU CS236. Find the specifications below.
+This is a project for BYU CS236. Find the specifications below. This project combines projects 1-5 to create an interpreter for Datalog programs. 
 
-## Project 1 Guide
+## Project 1 Guide: Lexer
 CS236 - Discrete Structures
 Instructor: Brett Decker
 Spring 2021
@@ -202,7 +202,7 @@ Start this project as early as possible. You will code better when not rushed, a
 be more inclined to test as you go (which will reduce overall coding time). See Project 1 on
 the course website for requirements and specifications and the starter code.
 
-## Project 2 Guide
+## Project 2 Guide: Parser
 CS236 - Discrete Structures
 Instructor: Brett Decker
 Fall 2021
@@ -292,7 +292,7 @@ be more inclined to test as you go (which will reduce overall coding time). See 
 the course website for requirements and specifications.
 3
 
-## Project 2 Guide
+## Project 3 Guide: Execution Engine Pt 1
 CS236 - Discrete Structures
 Instructor: Brett Decker
 Fall 2021
@@ -382,7 +382,7 @@ be more inclined to test as you go (which will reduce overall coding time). See 
 the course website for requirements and specifications.
 3
 
-##Project 4 Guide
+##Project 4 Guide: Execution Engine Pt2
 CS236 - Discrete Structures
 Instructor: Brett Decker
 Fall 2020
@@ -422,7 +422,7 @@ be more inclined to test as you go (which will reduce overall coding time). See 
 the course website for requirements and specifications.
 2
 
-## Project 5 Guide
+## Project 5 Guide: Execution Engine pt 3
 CS236 - Discrete Structures
 Instructor: Brett Decker
 Fall 2020
