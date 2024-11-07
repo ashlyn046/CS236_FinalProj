@@ -8,7 +8,7 @@ This interpreter, built in C++, uses concepts from discrete structures, finite-s
 
 - **Lexer**: Scans the input program file and generates a list of tokens.
 - **Parser**: Interprets tokens to validate the program structure.
-- **Execution Engine**: Executes commands based on the parsed Datalog program.
+- **Execution Engine (interpreter)**: Executes commands based on the parsed Datalog program.
 
 ### Why Tokens?
 
@@ -32,5 +32,5 @@ The **Lexer** uses a finite-state machine approach to tokenize input, breaking i
 ### Parser
 The **Parser** receives tokens from the Lexer, arranging them according to Datalog’s rules. This component ensures the sequence of tokens conforms to the expected structure for the Datalog language, making the program interpretable by the Execution Engine.
 
-### Execution Engine
-The **Execution Engine** processes and executes the commands in the parsed Datalog program. It interacts with data structures based on the parsed input, outputting results or handling queries as defined by the program.
+### Interpreter
+The **Interpreter** processes and executes the commands in the parsed Datalog program. It interacts with data structures based on the parsed input, outputting results or handling queries as defined by the program.
