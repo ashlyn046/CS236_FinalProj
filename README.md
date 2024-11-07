@@ -37,18 +37,17 @@ The **Interpreter** processes and executes the commands in the parsed Datalog pr
 
 ### File Structure
 project-root/
-│
-├── Automata/                           # Contains automata classes for Lexer components
-│   ├── AdditionAutomata.cpp            # Recognizes addition symbols in Datalog syntax
-│   ├── AdditionAutomata.h
-│   ├── ColonAutomaton.cpp              # Recognizes colon symbols
-│   ├── ColonAutomaton.h
-│   ├── ColonDashAutomaton.cpp          # Recognizes colon-dash symbols
-│   ├── ColonDashAutomaton.h
-│   ├── CommaAutomaton.cpp              # Recognizes comma symbols
-│   ├── CommaAutomaton.h
-│   ├── ...                             # (Other symbol recognizers follow similar patterns)
-│   ├── IdentifierAutomaton.cpp         # Recognizes identifiers in Datalog syntax
+## Automata/                           # Contains automata classes for Lexer components
+# AdditionAutomata.cpp            # Recognizes addition symbols in Datalog syntax
+# AdditionAutomata.h
+# ColonAutomaton.cpp              # Recognizes colon symbols
+# ColonAutomaton.h
+# ColonDashAutomaton.cpp          # Recognizes colon-dash symbols
+# ColonDashAutomaton.h
+# CommaAutomaton.cpp              # Recognizes comma symbols
+# CommaAutomaton.h
+# ...                             # (Other symbol recognizers follow similar patterns)
+# IdentifierAutomaton.cpp         # Recognizes identifiers in Datalog syntax
 │   ├── IdentifierAutomaton.h
 │   └── StringAutomata.cpp              # Recognizes string literals
 │
@@ -87,5 +86,6 @@ project-root/
 ├── README.md                           # Project overview and instructions for setup and usage
 │
 └── cmake-build-debug/                  # Generated build files (can be ignored or deleted if not using CMake)
+
 
 
