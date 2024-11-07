@@ -1,4 +1,4 @@
-#include "Relation.h"
+#include "Structures/Relation.h"
 #include <utility>
 
 Relation::Relation(std::string nameVal, const Header& headerVal)

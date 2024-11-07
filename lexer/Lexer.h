@@ -2,7 +2,7 @@
 #define LEXER_H
 #include <vector>
 #include "Automata/Automaton.h"
-#include "Token.h"
+#include "Token/Token.h"
 
 class Lexer
 {

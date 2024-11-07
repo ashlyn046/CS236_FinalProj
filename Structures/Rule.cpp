@@ -1,5 +1,5 @@
-#include "Rule.h"
-#include "Predicate.h"
+#include "Structures/Rule.h"
+#include "Structures/Predicate.h"
 #include <utility>
 #include <vector>
 #include <iostream>

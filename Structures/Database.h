@@ -1,7 +1,7 @@
 #ifndef PROJECT1_STARTER_CODE_DATABASE_H
 #define PROJECT1_STARTER_CODE_DATABASE_H
 #include <map>
-#include "Relation.h"
+#include "Structures/Relation.h"
 
 class Database {
 private:

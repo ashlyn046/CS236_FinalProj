@@ -1,8 +1,8 @@
 #ifndef PROJECT1_STARTER_CODE_DATALOGPROGRAM_H
 #define PROJECT1_STARTER_CODE_DATALOGPROGRAM_H
 
-#include "Rule.h"
-#include "Predicate.h"
+#include "Structures/Rule.h"
+#include "Structures/Predicate.h"
 #include <vector>
 #include <string>
 #include <set>

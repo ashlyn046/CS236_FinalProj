@@ -1,7 +1,7 @@
 #ifndef PROJECT1_STARTER_CODE_PREDICATE_H
 #define PROJECT1_STARTER_CODE_PREDICATE_H
 
-#include "Parameter.h"
+#include "Structures/Parameter.h"
 #include <string>
 #include <vector>
 

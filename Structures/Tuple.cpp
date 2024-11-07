@@ -1,4 +1,4 @@
-#include "Tuple.h"
+#include "Structures/Tuple.h"
 #include <utility>
 
 Tuple::Tuple(std::vector<std::string> vectorOfStrings)

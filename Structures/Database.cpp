@@ -1,4 +1,4 @@
-#include "Database.h"
+#include "Structures/Database.h"
 
 void Database::addRelation(const std::string& name, const Relation& relation)
 {

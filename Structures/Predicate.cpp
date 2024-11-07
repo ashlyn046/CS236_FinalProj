@@ -1,4 +1,4 @@
-#include "Predicate.h"
+#include "Structures/Predicate.h"
 #include <string>
 
 void Predicate::setID(std::string id)

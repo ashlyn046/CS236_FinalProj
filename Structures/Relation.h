@@ -1,7 +1,7 @@
 #ifndef PROJECT1_STARTER_CODE_RELATION_H
 #define PROJECT1_STARTER_CODE_RELATION_H
-#include "Tuple.h"
-#include "Header.h"
+#include "Structures/Tuple.h"
+#include "Structures/Header.h"
 #include <set>
 #include <vector>
 #include <iostream>

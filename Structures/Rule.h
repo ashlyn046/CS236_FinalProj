@@ -1,7 +1,7 @@
 #ifndef PROJECT1_STARTER_CODE_RULE_H
 #define PROJECT1_STARTER_CODE_RULE_H
 
-#include "Predicate.h"
+#include "Structures/Predicate.h"
 #include <vector>
 #include <string>
 

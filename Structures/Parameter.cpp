@@ -1,4 +1,4 @@
-#include "Parameter.h"
+#include "Structures/Parameter.h"
 
 Parameter::Parameter(std::string stringVal)
 {

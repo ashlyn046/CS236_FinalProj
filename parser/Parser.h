@@ -1,11 +1,11 @@
 #ifndef PROJECT1_STARTER_CODE_PARSER_H
 #define PROJECT1_STARTER_CODE_PARSER_H
 
-#include "Token.h"
+#include "Token/Token.h"
 #include <vector>
 #include <string>
-#include "DatalogProgram.h"
-#include "Predicate.h"
+#include "Datalog/DatalogProgram.h"
+#include "Structures/Predicate.h"
 
 class Parser {
 private:
