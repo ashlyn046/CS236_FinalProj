@@ -29,10 +29,6 @@ This project builds on previous projects:
 ### Lexer
 The **Lexer** uses a finite-state machine approach to tokenize input, breaking it down into predefined structures while tracking line numbers. The Lexer implements the `Parallel and Max` algorithm, where each automaton checks input and reads the longest valid segment, generating a token based on that match.
 
-Key methods:
-- `Lexer::Run(std::string input)`: Tokenizes the input string by running the `Parallel and Max` algorithm.
-- `Automaton::Start(const std::string &input)`: Starts the finite-state automaton for each token type.
-
 ### Parser
 The **Parser** receives tokens from the Lexer, arranging them according to Datalog’s rules. This component ensures the sequence of tokens conforms to the expected structure for the Datalog language, making the program interpretable by the Execution Engine.
 
