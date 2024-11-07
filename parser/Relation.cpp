@@ -1,7 +1,3 @@
-//
-// Created by Alison Day on 11/2/22.
-//
-
 #include "Relation.h"
 #include <utility>
 

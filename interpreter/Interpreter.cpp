@@ -1,7 +1,3 @@
-//
-// Created by Alison Day on 11/2/22.
-//
-
 #include "Interpreter.h"
 
 Interpreter::Interpreter(const DatalogProgram& datalogProgramVal)

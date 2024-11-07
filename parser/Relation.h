@@ -1,7 +1,3 @@
-//
-// Created by Alison Day on 11/2/22.
-//
-
 #ifndef PROJECT1_STARTER_CODE_RELATION_H
 #define PROJECT1_STARTER_CODE_RELATION_H
 #include "Tuple.h"

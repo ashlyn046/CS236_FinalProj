@@ -1,7 +1,3 @@
-//
-// Created by Alison Day on 10/1/22.
-//
-
 #include "DatalogProgram.h"
 #include <iostream>
 

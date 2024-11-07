@@ -1,7 +1,3 @@
-//
-// Created by Alison Day on 10/1/22.
-//
-
 #ifndef PROJECT1_STARTER_CODE_PARAMETER_H
 #define PROJECT1_STARTER_CODE_PARAMETER_H
 

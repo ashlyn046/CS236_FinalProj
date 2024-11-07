@@ -1,7 +1,3 @@
-//
-// Created by Alison Day on 9/19/22.
-//
-
 #include "FactsAutomaton.h"
 
 void FactsAutomaton::S0(const std::string& input) {

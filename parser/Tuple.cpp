@@ -1,6 +1,3 @@
-//
-// Created by Alison Day on 11/2/22.
-//
 #include "Tuple.h"
 #include <utility>
 

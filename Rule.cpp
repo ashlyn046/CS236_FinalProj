@@ -1,7 +1,3 @@
-//
-// Created by Alison Day on 10/1/22.
-//
-
 #include "Rule.h"
 #include "Predicate.h"
 #include <utility>

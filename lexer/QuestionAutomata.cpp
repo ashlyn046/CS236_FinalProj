@@ -1,7 +1,3 @@
-//
-// Created by Alison Day on 9/19/22.
-//
-
 #include "QuestionAutomata.h"
 
 

@@ -1,7 +1,3 @@
-//
-// Created by Alison Day on 10/1/22.
-//
-
 #include "Parser.h"
 #include <iostream>
 #include <utility>

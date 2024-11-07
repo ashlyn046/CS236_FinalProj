@@ -1,6 +1,3 @@
-//
-// Created by Alison Day on 11/2/22.
-//
 #include "Database.h"
 
 void Database::addRelation(const std::string& name, const Relation& relation)

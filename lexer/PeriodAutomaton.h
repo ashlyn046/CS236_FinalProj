@@ -1,7 +1,3 @@
-//
-// Created by Alison Day on 9/19/22.
-//
-
 #ifndef PROJECT1_STARTER_CODE_PERIODAUTOMATON_H
 #define PROJECT1_STARTER_CODE_PERIODAUTOMATON_H
 
