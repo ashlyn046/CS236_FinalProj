@@ -1,7 +1,7 @@
 #ifndef COLONAUTOMATON_H
 #define COLONAUTOMATON_H
 
-#include "Automaton.h"
+#include "Automata/Automaton.h"
 
 class ColonAutomaton : public Automaton
 {

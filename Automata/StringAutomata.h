@@ -1,7 +1,7 @@
 #ifndef PROJECT1_STARTER_CODE_STRINGAUTOMATA_H
 #define PROJECT1_STARTER_CODE_STRINGAUTOMATA_H
 
-#include "Automaton.h"
+#include "Automata/Automaton.h"
 
 class StringAutomaton : public Automaton {
 private:

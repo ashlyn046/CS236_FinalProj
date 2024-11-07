@@ -1,4 +1,4 @@
-#include "IdentifierAutomaton.h"
+#include "Automata/IdentifierAutomaton.h"
 #include <cctype>
 
 void IdentifierAutomaton::S0(const std::string& input) {

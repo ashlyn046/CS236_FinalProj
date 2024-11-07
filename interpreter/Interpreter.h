@@ -1,12 +1,12 @@
 #ifndef PROJECT1_STARTER_CODE_INTERPRETER_H
 #define PROJECT1_STARTER_CODE_INTERPRETER_H
 
-#include "Datalog_Structures/Header.h"
-#include "Datalog_Structures/Tuple.h"
-#include "Datalog_Structures/Relation.h"
-#include "Datalog_Structures/Database.h"
-#include "Datalog_Structures/DatalogProgram.h"
-#include "Datalog_Structures/Predicate.h"
+#include "Structures/Header.h"
+#include "Structures/Tuple.h"
+#include "Structures/Relation.h"
+#include "Structures/Database.h"
+#include "Structures/DatalogProgram.h"
+#include "Structures/Predicate.h"
 #include <map>
 #include <set>
 

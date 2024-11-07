@@ -1,7 +1,7 @@
 #ifndef PROJECT1_STARTER_CODE_ADDITIONAUTOMATA_H
 #define PROJECT1_STARTER_CODE_ADDITIONAUTOMATA_H
 
-#include "Automaton.h"
+#include "Automata/Automaton.h"
 
 class AdditionAutomaton : public Automaton
 {

@@ -1,7 +1,7 @@
 #ifndef PROJECT1_STARTER_CODE_QUERIESAUTOMATON_H
 #define PROJECT1_STARTER_CODE_QUERIESAUTOMATON_H
 
-#include "Automaton.h"
+#include "Automata/Automaton.h"
 
 class QueriesAutomaton : public Automaton{
 private:

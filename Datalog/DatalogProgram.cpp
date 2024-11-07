@@ -1,4 +1,4 @@
-#include "Structures/DatalogProgram.h"
+#include "Datalog/DatalogProgram.h"
 #include <iostream>
 
 void DatalogProgram::addScheme(const Predicate& pred)

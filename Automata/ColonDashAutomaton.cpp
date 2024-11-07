@@ -1,4 +1,4 @@
-#include "ColonDashAutomaton.h"
+#include "Automata/ColonDashAutomaton.h"
 
 void ColonDashAutomaton::S0(const std::string& input) {
     if (input[index] == ':') {

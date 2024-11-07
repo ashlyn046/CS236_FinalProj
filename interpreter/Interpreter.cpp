@@ -1,4 +1,4 @@
-#include "Interpreter.h"
+#include "interpreter/Interpreter.h"
 
 Interpreter::Interpreter(const DatalogProgram& datalogProgramVal)
 {

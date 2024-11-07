@@ -1,4 +1,4 @@
-#include "PeriodAutomaton.h"
+#include "Automata/PeriodAutomaton.h"
 
 void PeriodAutomaton::S0(const std::string& input) {
     if (input[index] == '.') {

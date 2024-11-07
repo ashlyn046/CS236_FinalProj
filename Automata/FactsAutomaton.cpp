@@ -1,4 +1,4 @@
-#include "FactsAutomaton.h"
+#include "Automata/FactsAutomaton.h"
 
 void FactsAutomaton::S0(const std::string& input) {
     if (input[index] == 'F') {

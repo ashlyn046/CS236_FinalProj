@@ -1,4 +1,4 @@
-#include "StringAutomata.h"
+#include "Automata/StringAutomata.h"
 
 void StringAutomaton::S0(const std::string& input) {
     if (input[index] == '\'') {

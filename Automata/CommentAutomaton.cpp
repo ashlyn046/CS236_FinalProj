@@ -1,4 +1,4 @@
-#include "CommentAutomaton.h"
+#include "Automata/CommentAutomaton.h"
 
 void CommentAutomaton::S0(const std::string& input) {
     if (input[index] == '#') {

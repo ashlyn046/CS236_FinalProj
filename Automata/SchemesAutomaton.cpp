@@ -1,4 +1,4 @@
-#include "SchemesAutomaton.h"
+#include "Automata/SchemesAutomaton.h"
 
 void SchemesAutomaton::S0(const std::string& input) {
     if (input[index] == 'S') {

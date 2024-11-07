@@ -1,4 +1,4 @@
-#include "QuestionAutomata.h"
+#include "Automata/QuestionAutomata.h"
 
 
 void QuestionAutomaton::S0(const std::string& input) {

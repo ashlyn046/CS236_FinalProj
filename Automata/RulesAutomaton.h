@@ -1,7 +1,7 @@
 #ifndef PROJECT1_STARTER_CODE_RULESAUTOMATON_H
 #define PROJECT1_STARTER_CODE_RULESAUTOMATON_H
 
-#include "Automaton.h"
+#include "Automata/Automaton.h"
 
 class RulesAutomaton : public Automaton{
 private:

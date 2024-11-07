@@ -1,6 +1,6 @@
-#include "Lexer.h"
-#include "Parser.h"
-#include "Interpreter.h"
+#include "lexer/Lexer.h"
+#include "parser/Parser.h"
+#include "interpreter/Interpreter.h"
 #include <fstream>
 
 int main(__attribute__((unused)) int argc, char *argv[]) //Put this back to how it used to be? Using suggested Clion edits

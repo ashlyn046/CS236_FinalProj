@@ -1,4 +1,4 @@
-#include "RulesAutomaton.h"
+#include "Automata/RulesAutomaton.h"
 
 void RulesAutomaton::S0(const std::string& input) {
     if (input[index] == 'R') {

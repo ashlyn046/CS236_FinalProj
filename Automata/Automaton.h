@@ -2,7 +2,7 @@
 #define AUTOMATON_H
 #include <utility>
 
-#include "Token.h"
+#include "Token/Token.h"
 
 class Automaton
 {

@@ -1,4 +1,4 @@
-#include "MultiplyAutomata.h"
+#include "Automata/MultiplyAutomata.h"
 
 void MultiplyAutomaton::S0(const std::string& input) {
     if (input[index] == '*') {

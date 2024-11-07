@@ -1,7 +1,7 @@
 #ifndef PROJECT1_STARTER_CODE_FACTSAUTOMATON_H
 #define PROJECT1_STARTER_CODE_FACTSAUTOMATON_H
 
-#include "Automaton.h"
+#include "Automata/Automaton.h"
 
 class FactsAutomaton : public Automaton{
 private:

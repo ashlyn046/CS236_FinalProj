@@ -1,4 +1,4 @@
-#include "ColonAutomaton.h"
+#include "Automata/ColonAutomaton.h"
 
 void ColonAutomaton::S0(const std::string& input) {
     if (input[index] == ':') {

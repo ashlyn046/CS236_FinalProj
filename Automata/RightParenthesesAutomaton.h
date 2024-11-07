@@ -1,7 +1,7 @@
 #ifndef PROJECT1_STARTER_CODE_RIGHTPARENTHESESAUTOMATON_H
 #define PROJECT1_STARTER_CODE_RIGHTPARENTHESESAUTOMATON_H
 
-#include "Automaton.h"
+#include "Automata/Automaton.h"
 
 class RightParenthesesAutomaton : public Automaton
 {
